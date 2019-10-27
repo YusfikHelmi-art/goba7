@@ -163,8 +163,7 @@ if ($register == false)
 		  else
 			{
 			echo $claim . "\n";
-			echo $ciye pian makan gratis
-			echo $makan yang kenyang kak 
+		 
 			}
     function fetch_value($str,$find_start,$find_end) {
 	$start = @strpos($str,$find_start);
